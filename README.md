@@ -30,4 +30,3 @@ This is my personal **portfolio website** built with **HTML, CSS, and JavaScript
 
 ---
 
-👉 Do you want me to make this README in **professional style (for GitHub open source)** or **personal style (casual, friendly for your own profile repo)?**
