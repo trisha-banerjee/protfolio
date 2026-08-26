@@ -1,32 +1,16 @@
-# 🌐 Personal Portfolio Website
+# React + Vite
 
-This is my personal **portfolio website** built with **HTML, CSS, and JavaScript**. It showcases my skills, education, projects, certifications, and contact details in a clean and responsive design.
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-## ✨ Features
+Currently, two official plugins are available:
 
-* 📱 **Responsive Design** – Works on desktop, tablet, and mobile
-* 🎨 **Modern UI/UX** – Glassmorphism, smooth scroll, and animations
-* 🕒 **Education Timeline** – Animated left-right layout for desktop & mobile
-* 🚀 **Projects Section** – Highlights my key projects with links
-* 🏆 **Certifications** – Displays my achievements and badges
-* 📬 **Contact Section** – Easy way to reach me
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## 🛠️ Technologies Used
+## React Compiler
 
-* **HTML5** – Structure
-* **CSS3 (with animations & responsiveness)** – Styling
-* **JavaScript** – Scroll animations, navigation, and interactivity
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
+## Expanding the Oxlint configuration
 
-## 🚀 How to Run
-
-
-
-## 🌟 Demo
-
-
-
-
-
----
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
